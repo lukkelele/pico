@@ -21,4 +21,5 @@ clang
 -I/home/lukas/Code/embedded/pico-sdk/src/rp2_common/hardware_gpio/include
 -I/home/lukas/Code/embedded/pico-sdk/src/rp2_common/hardware_irq/include
 -I/home/lukas/Code/embedded/pico-sdk/src/rp2_common/hardware_uart/include
+-I/home/lukas/Code/embedded/pico-sdk/src/rp2_common/hardware_pwm/include
 
